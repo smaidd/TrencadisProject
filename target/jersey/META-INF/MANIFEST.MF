@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: jersey
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: alex
+Implementation-Vendor-Id: com.alex
+Created-By: IntelliJ IDEA
+Build-Jdk: 11
+Main-Class: ${start-class}
+
